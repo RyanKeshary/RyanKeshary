@@ -2,6 +2,11 @@
 💻 Full-Stack & Web Development Enthusiast<br><br>💫 About Me:<br>🔭 Recently worked on CrisisMitra – a real-time Disaster Relief Coordination Platform<br>👯 I’m looking to collaborate on open-source projects, hackathons, and web applications<br>🤝 Looking for guidance on advanced backend systems and large-scale project architecture<br>🌱 Learning backend development, cloud deployment, and scalable web architectures<br>💬 Ask me about coding, self-improvement, productivity, or tech project ideas<br>💡 Passionate about coding, AI-assisted solutions, and building impactful projects<br>🎯 Goal: To achieve mastery in full-stack development and create tech that solves real-world problems<br>⚡ Fun Fact: I’m obsessed with optimization — whether it’s code, workflow, or fitness.
 
 
+## 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryankeshary) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RyanKeshary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryankeshary@gmail.com) 
+
+
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -28,10 +33,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RyanKeshary&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryankeshary) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RyanKeshary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryankeshary@gmail.com) 
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
